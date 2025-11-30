@@ -1,6 +1,15 @@
-# 🕵️ Blind Maze
-
-> **Memorize the path. Survive the fog. Find the exit.**
+<div align="center">
+  <img src="https://www.greenfoot.org/images/greenfoot-logo.png" alt="Greenfoot Logo" height="100">
+  <h1>🕵️ Blind Maze</h1>
+  <p>
+    <b>Memorize the path. Survive the fog. Find the exit.</b>
+  </p>
+  <p>
+    Created by <b>Kazanaru</b><br>
+    Inspired by <i>Game Labirin Buta</i>
+  </p>
+  <br>
+</div>
 
 **Blind Maze** is a challenging puzzle-exploration game built with [Greenfoot](https://www.greenfoot.org/). It tests your memory and spatial awareness by plunging you into a procedurally generated labyrinth where vision is your most scarce resource.
 
@@ -61,8 +70,7 @@ No two runs are the same.
 
 ## 👨‍💻 Author
 
-Created as a project to demonstrate procedural generation and dynamic lighting effects in Greenfoot.
+Created by **Kazanaru**.
 
 ---
 *Enjoy the maze!*
-#
