@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FogOverlay
+comment0.text=\r\n\ FogOverlay\ -\ Fog\ of\ War\ effect\r\n\ Membuat\ pemain\ hanya\ bisa\ melihat\ area\ sekitar\ mereka\r\n
+comment1.params=w
+comment1.target=FogOverlay(MyWorld)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=alpha
+comment3.target=void\ setTransparency(int)
+comment4.params=
+comment4.target=void\ createFogImage()
+comment5.params=
+comment5.target=void\ updateFog()
+numComments=6

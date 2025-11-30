@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ -\ Karakter\ yang\ dikontrol\ pemain\r\n\ Bergerak\ dengan\ WASD\ atau\ Arrow\ Keys\r\n
+comment1.params=w
+comment1.target=Player(MyWorld)
+comment2.params=
+comment2.target=void\ createImage()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkKeys()
+comment5.params=dx\ dy
+comment5.target=boolean\ canMove(int,\ int)
+comment6.params=
+comment6.target=void\ checkGoal()
+comment7.params=
+comment7.target=java.lang.String\ getLastDirection()
+numComments=8

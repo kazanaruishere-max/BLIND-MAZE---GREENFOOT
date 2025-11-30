@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ Wall\ -\ Dinding\ labirin\r\n
+comment1.params=
+comment1.target=Wall()
+comment2.params=
+comment2.target=void\ createImage()
+numComments=3
